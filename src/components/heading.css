@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@600&display=swap');
+
+
+.alert-primary {
+    font-family: 'Baloo Tamma 2', cursive;
+    font-size: x-large;
+    margin-bottom: 50px;
+    width: 81rem;
+    display: block;
+    text-align: center;
+    --bs-alert-color: #fdad47;
+    --bs-alert-bg: #ffffff;
+    --bs-alert-border-color: #b6d4fe;
+}
+
+.alert-primary h1{
+    font-size: 3rem;
+    margin-bottom: 0px;
+
+}
